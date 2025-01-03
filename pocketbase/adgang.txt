@@ -1,0 +1,4 @@
+Email: juli892s@videndjurs.net
+Kode: 3dÅrhusvej
+
+Opstart kommando: ./pocketbase serve     - Skrives i terminalen i den rigtige mappe (kan højre klikke på mappen pocketbase og tryk på open intergrated terminal)
